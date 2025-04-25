@@ -1,0 +1,14 @@
+C:\Users\Чермет\source\repos\BasicRepeat2\BasicRepeat2\bin\Debug\net8.0\BasicRepeat2.exe
+C:\Users\Чермет\source\repos\BasicRepeat2\BasicRepeat2\bin\Debug\net8.0\BasicRepeat2.deps.json
+C:\Users\Чермет\source\repos\BasicRepeat2\BasicRepeat2\bin\Debug\net8.0\BasicRepeat2.runtimeconfig.json
+C:\Users\Чермет\source\repos\BasicRepeat2\BasicRepeat2\bin\Debug\net8.0\BasicRepeat2.dll
+C:\Users\Чермет\source\repos\BasicRepeat2\BasicRepeat2\bin\Debug\net8.0\BasicRepeat2.pdb
+C:\Users\Чермет\source\repos\BasicRepeat2\BasicRepeat2\obj\Debug\net8.0\BasicRepeat2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Чермет\source\repos\BasicRepeat2\BasicRepeat2\obj\Debug\net8.0\BasicRepeat2.AssemblyInfoInputs.cache
+C:\Users\Чермет\source\repos\BasicRepeat2\BasicRepeat2\obj\Debug\net8.0\BasicRepeat2.AssemblyInfo.cs
+C:\Users\Чермет\source\repos\BasicRepeat2\BasicRepeat2\obj\Debug\net8.0\BasicRepeat2.csproj.CoreCompileInputs.cache
+C:\Users\Чермет\source\repos\BasicRepeat2\BasicRepeat2\obj\Debug\net8.0\BasicRepeat2.dll
+C:\Users\Чермет\source\repos\BasicRepeat2\BasicRepeat2\obj\Debug\net8.0\refint\BasicRepeat2.dll
+C:\Users\Чермет\source\repos\BasicRepeat2\BasicRepeat2\obj\Debug\net8.0\BasicRepeat2.pdb
+C:\Users\Чермет\source\repos\BasicRepeat2\BasicRepeat2\obj\Debug\net8.0\BasicRepeat2.genruntimeconfig.cache
+C:\Users\Чермет\source\repos\BasicRepeat2\BasicRepeat2\obj\Debug\net8.0\ref\BasicRepeat2.dll

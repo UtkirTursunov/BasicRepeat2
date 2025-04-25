@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BasicRepeat2/1.0.0": {
+        "runtime": {
+          "BasicRepeat2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicRepeat2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
